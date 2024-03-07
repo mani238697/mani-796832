@@ -27,12 +27,7 @@
     <artifactId>tomcat-jasper</artifactId>
     <version>9.0.12</version>
 </dependency>
-    <!-- https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api -->
-<dependency>  
-    <groupId>javax.servlet</groupId>  
-    <artifactId>servlet-api</artifactId>  
-    <version>3.0-alpha-1</version>  
-</dependency>    
+    <!-- https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api -->  
   </dependencies>
   <build>
     <finalName>SpringMVC</finalName>
