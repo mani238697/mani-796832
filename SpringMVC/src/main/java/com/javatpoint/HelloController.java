@@ -11,6 +11,8 @@ public class HelloController {
 	{
 	
 	    System.out.println("this my first project using reposritory");
+	    System.out.println("this my first project using reposritory");System.out.println("this my first project using reposritory");
+	    System.out.println("this my first project using reposritory");
 		return "hellow";
 	}	
 }
